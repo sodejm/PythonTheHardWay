@@ -1,3 +1,5 @@
+# Exercise 3
+
 print "I will now count my chickens:"
 
 #PEMDAS
